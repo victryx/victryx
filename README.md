@@ -6,8 +6,11 @@
 
 <div align="center">
   <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka">
+  
 </div>
 
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Cake Neka
 
