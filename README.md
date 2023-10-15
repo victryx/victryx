@@ -2,7 +2,12 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /></p>
 
----
+<br>
+
+<div align="center">
+  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka">
+</div>
+
 
 ## Cake Neka
 
