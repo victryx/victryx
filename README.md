@@ -6,13 +6,16 @@
 
 <div align="center">
   <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka">
-  
+</div>
+<br>
+<div align="center">
+  <img alt="obsidian shield" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img alt="java shield" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ## Cake Neka
+
+Neka is a ~~student~~ **pink fluffy unicorn** who wants to learn about gamedev and open source
 
 Neka **loves**:
 
@@ -20,6 +23,7 @@ Neka **loves**:
 - Note-taking
 - Ponies
 - Cakes
+- Lists
 
 
 <!--
