@@ -13,9 +13,9 @@
   <img alt="java shield" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-## Cake Neka
+## 🍰 Cake Neka
 
-Neka is a ~~student~~ **pink fluffy unicorn** who wants to learn about gamedev and open source
+Neka is a ~~student~~ **pink fluffy unicorn** who wants to learn about gamedev and open source.
 
 Neka **loves**:
 
