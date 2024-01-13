@@ -1,6 +1,6 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓮𝓿𝓮𝓻𝔂𝓹𝓸𝓷𝔂</h1>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /></p>
 
 <br>
 
