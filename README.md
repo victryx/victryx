@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to my profile 💖</h1>
+<h1 align="center">✨ Welcome to my profile ✨</h1>
 
 <div align="center">
   <a href="https://leetcode.com/akenna">
@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    <h4>About me </h4>
+    <h4>🦄 About me</h4>
   </summary>
 
 <h2><code>`$whoami`</code></h2>
@@ -35,8 +35,9 @@
 <pre width="500">
   <div align="center">✩₊˚.⋆☾⋆⁺₊✧</div>
   > <strong>cat welcome.txt</strong>
-
-  Hello World! I'm Martina Victoria, a spanish student interested in learning and contributing to open source.
+<!--                                                          -->
+  Hello World! I'm Martina Victoria, a spanish student interested 
+  in learning and contributing to open source.
 
 </pre>
 
@@ -67,24 +68,38 @@
 <h4 align="center">🎀 Extra 🎀</h4>
 <div align="center">
 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
 <h2>🗻 Projects </h2>
 
+- [Leetcode solved problems](https://github.com/cakeneka/My-leetcode-solved-problems)
+
+
 </details>
-<!--
-**CakeNeka/CakeNeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>
+    <h4>⚙ Stats</h4>
+  </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, most of the contributions are to personal or school projects
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cakeneka&theme=date_night)
+
+</div>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cakeneka&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cakeneka&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cakeneka&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cakeneka&theme=date_night&utcOffset=1)
+
+</div>
+</details>
+
+
