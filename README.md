@@ -1,28 +1,21 @@
 <h1 align="center">✨ Welcome to my profile ✨</h1>
 
 <div align="center">
-  <a href="https://leetcode.com/akenna">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  
+  [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/akenna) &nbsp;
+  [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nekaelia@protonmail.com) &nbsp;
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-  </a>
-  &nbsp;
-  <a href="mailto:nekaelia@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-   &nbsp;
-   <a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 <br>
 
 
-<img align="right" alt="visitor count" src="https://komarev.com/ghpvc/?username=cakeneka&color=ff69b4" /> <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka" / -->
-<br>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" />
+<img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /> <br>
+<img align="center" alt="visitor count" src="https://komarev.com/ghpvc/?username=cakeneka&color=ff69b4" /> <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka" / -->
 </div>
-
+<br>
 
 
 <details>
@@ -30,7 +23,7 @@
     <h4>🦄 About me</h4>
   </summary>
 
-<h2><code>`$whoami`</code></h2>
+<h2><code>$whoami</code></h2>
 
 <pre width="500">
   <div align="center">✩₊˚.⋆☾⋆⁺₊✧</div>
