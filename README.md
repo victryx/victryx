@@ -2,9 +2,10 @@
 
 <div align="center">
   
-  [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/akenna) &nbsp;
-  [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nekaelia@protonmail.com) &nbsp;
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  [![](https://img.shields.io/badge/LeetCode-Akenna-FFA116?style=plastic&logo=LeetCode)](https://leetcode.com/akenna) &nbsp;
+  [![](https://img.shields.io/badge/Email-nekaelia@protonmail.com-8B89CC?style=plastic&logo=protonmail)](mailto:nekaelia@protonmail.com) &nbsp;
+  [![](https://img.shields.io/badge/Mastodon-neka@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@Neka)
+  <!--[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)-->
 
 </div>
 <br>
