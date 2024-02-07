@@ -4,27 +4,13 @@
   
   [![](https://img.shields.io/badge/LeetCode-Akenna-FFA116?style=plastic&logo=LeetCode)](https://leetcode.com/akenna) &nbsp;
   [![](https://img.shields.io/badge/Email-nekaelia@protonmail.com-8B89CC?style=plastic&logo=protonmail)](mailto:nekaelia@protonmail.com) &nbsp;
-  [![](https://img.shields.io/badge/Mastodon-neka@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@Neka)
+  [![](https://img.shields.io/badge/Mastodon-neka@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@Neka) &nbsp;
+  ![](https://komarev.com/ghpvc/?username=cakeneka&color=ff69b4&style=plastic) <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka" / -->
   <!--[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)-->
 
 </div>
-<br>
 
-
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /> <br>
-<img align="center" alt="visitor count" src="https://komarev.com/ghpvc/?username=cakeneka&color=ff69b4" /> <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka" / -->
-</div>
-<br>
-
-
-<details>
-  <summary>
-    <h4>🦄 About me</h4>
-  </summary>
-
-<h2><code>$whoami</code></h2>
+<h3><code>$whoami</code></h3>
 
 <pre width="500">
   <div align="center">✩₊˚.⋆☾⋆⁺₊✧</div>
@@ -34,6 +20,11 @@
   in learning and contributing to open source.
 
 </pre>
+
+<details>
+  <summary>
+    <h4>🦄 About me</h4>
+  </summary>
 
 <h2>💻 Skills </h2>
 
@@ -48,7 +39,6 @@
 
 </div>
 
-
 <h4 align="center">🎀 Beginner 🎀</h4>
 <div align="center">
 
@@ -57,7 +47,6 @@
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  
 </div>
 <h4 align="center">🎀 Extra 🎀</h4>
 <div align="center">
@@ -72,7 +61,6 @@
 
 - [Leetcode solved problems](https://github.com/cakeneka/My-leetcode-solved-problems)
 
-
 </details>
 
 <details>
@@ -81,6 +69,7 @@
   </summary>
 
 Right now, most of the contributions are to personal or school projects
+
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cakeneka&theme=date_night)
@@ -93,6 +82,10 @@ Right now, most of the contributions are to personal or school projects
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cakeneka&theme=date_night)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cakeneka&theme=date_night&utcOffset=1)
 
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /> <br>
 </div>
 </details>
 
