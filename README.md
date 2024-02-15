@@ -60,6 +60,7 @@
 <h2>🗻 Projects </h2>
 
 - [Leetcode solved problems](https://github.com/cakeneka/My-leetcode-solved-problems)
+- [Java simple TCP chat](https://github.com/CakeNeka/TINAC-Chat)
 
 </details>
 
