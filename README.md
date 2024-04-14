@@ -23,7 +23,7 @@
 
 <details>
   <summary>
-    <h4>🦄 About me</h4>
+    <b>🦄 About me</b>
   </summary>
 
 <h2>💻 Skills </h2>
@@ -57,17 +57,25 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
-<h2>🗻 Projects </h2>
+<h2>🌋 Projects </h2>
 
-- [Leetcode solved problems](https://github.com/cakeneka/My-leetcode-solved-problems)
-- [Java simple TCP chat](https://github.com/CakeNeka/TINAC-Chat)
-- [Java FTP folder synchronization](https://github.com/CakeNeka/SuperSync)
+### 🐣 Games
+- [Typing Game][repo-unholy-typing]
+- [Heroes of Sokoban Clone][repo-sokoban]
+
+### 🐁 School Projects
+- [Flutter Mobile App][repo-peluqueria]
+- [Java simple TCP chat][repo-chat]
+- [Java FTP folder synchronization][repo-drive]
+
+### 🐀 Others 
+- [Leetcode solved problems][repo-leetcode]
 
 </details>
 
 <details>
   <summary>
-    <h4>⚙ Stats</h4>
+    <b>⚙ Stats</b>
   </summary>
 
 Right now, most of the contributions are to personal or school projects
@@ -91,4 +99,9 @@ Right now, most of the contributions are to personal or school projects
 </div>
 </details>
 
-
+[repo-chat]: https://github.com/CakeNeka/TINAC-Chat
+[repo-drive]: https://github.com/CakeNeka/SuperSync
+[repo-leetcode]: https://github.com/cakeneka/My-leetcode-solved-problems
+[repo-sokoban]: https://github.com/CakeNeka/Heroes-of-Sokoban-Unity-Clone
+[repo-unholy-typing]: https://github.com/CakeNeka/Unholy-Typing
+[repo-peluqueria]: https://github.com/CakeNeka/peluqueria
