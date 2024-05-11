@@ -10,16 +10,16 @@
 
 </div>
 
-<h3><code>$whoami</code></h3>
+<h3><code>$ whoami</code></h3>
 
-<pre width="500">
-  <div align="center">✩₊˚.⋆☾⋆⁺₊✧</div>
-  > <strong>cat welcome.txt</strong>
+<pre width="500"><div align="center">✩₊˚.⋆☾⋆⁺₊✧</div>
+  $ <strong>cat welcome.txt</strong>
 <!--                                                          -->
-  Hello World! I'm Martina Victoria, a spanish student interested 
-  in learning and contributing to open source.
-
-</pre>
+  Hello World!
+  I'm Victoria, aspiring software developer and catgirl wannabe ✩. 
+  I enjoy making games and solving problems.  
+  
+<div align="center">⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺</div></pre>
 
 <details>
   <summary>
