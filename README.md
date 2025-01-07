@@ -4,7 +4,7 @@
   
   [![](https://img.shields.io/badge/LeetCode-Akenna-FFA116?style=plastic&logo=LeetCode)](https://leetcode.com/akenna) &nbsp;
   [![](https://img.shields.io/badge/Email-nekaelia@protonmail.com-8B89CC?style=plastic&logo=protonmail)](mailto:nekaelia@protonmail.com) &nbsp;
-  [![](https://img.shields.io/badge/Mastodon-victrix@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@Neka) &nbsp;
+  [![](https://img.shields.io/badge/Mastodon-victrix@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@victrix) &nbsp;
   ![](https://komarev.com/ghpvc/?username=victryx&color=ff69b4&style=plastic) <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/victryx/victryx" / -->
   <!--[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)-->
 
