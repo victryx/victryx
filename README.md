@@ -5,7 +5,7 @@
   [![](https://img.shields.io/badge/LeetCode-Akenna-FFA116?style=plastic&logo=LeetCode)](https://leetcode.com/akenna) &nbsp;
   [![](https://img.shields.io/badge/Email-nekaelia@protonmail.com-8B89CC?style=plastic&logo=protonmail)](mailto:nekaelia@protonmail.com) &nbsp;
   [![](https://img.shields.io/badge/Mastodon-victrix@tech.lgbt-6364FF.svg?&style=plastic&logo=mastodon)](https://tech.lgbt/@Neka) &nbsp;
-  ![](https://komarev.com/ghpvc/?username=cakeneka&color=ff69b4&style=plastic) <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/cakeneka/cakeneka" / -->
+  ![](https://komarev.com/ghpvc/?username=victryx&color=ff69b4&style=plastic) <!-- img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/victryx/victryx" / -->
   <!--[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)-->
 
 </div>
@@ -80,26 +80,26 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cakeneka&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victryx&theme=date_night)
 
 </div>
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cakeneka&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cakeneka&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cakeneka&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cakeneka&theme=date_night&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victryx&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victryx&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victryx&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victryx&theme=date_night&utcOffset=1)
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=cakeneka&theme=rose-pine&hide_border=true&border_radius=50" alt="cakeneka" /> <br>
+<img src="https://streak-stats.demolab.com?user=victryx&theme=rose-pine&hide_border=true&border_radius=50" alt="victryx" /> <br>
 </div>
 </details>
 
-[repo-chat]: https://github.com/CakeNeka/TINAC-Chat
-[repo-drive]: https://github.com/CakeNeka/SuperSync
-[repo-leetcode]: https://github.com/cakeneka/My-leetcode-solved-problems
-[repo-sokoban]: https://github.com/CakeNeka/Heroes-of-Sokoban-Unity-Clone
-[repo-unholy-typing]: https://github.com/CakeNeka/Unholy-Typing
-[repo-peluqueria]: https://github.com/CakeNeka/peluqueria
+[repo-chat]: https://github.com/victryx/TINAC-Chat
+[repo-drive]: https://github.com/victryx/SuperSync
+[repo-leetcode]: https://github.com/victryx/My-leetcode-solved-problems
+[repo-sokoban]: https://github.com/victryx/Heroes-of-Sokoban-Unity-Clone
+[repo-unholy-typing]: https://github.com/victryx/Unholy-Typing
+[repo-peluqueria]: https://github.com/victryx/peluqueria
