@@ -26,8 +26,15 @@
     <b>🦄 About me</b>
   </summary>
 
-<h2>💻 Skills </h2>
+<h2>📜 Education</h2>
 
+- Currently studying computer science
+
+<h2>💻 Experience</h2>
+
+- I did an internship at a local web development company in **2024**, working on an internal project developed with React and Next.js
+
+<!--
 <h4 align="center">🎀 Intermediate 🎀</h4>
 <div align="center">
 
@@ -56,7 +63,7 @@
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
-
+-->
 <h2>🌋 Projects </h2>
 
 ### 🐣 Games
